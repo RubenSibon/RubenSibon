@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a React Native project for the [muncipality of Amsterdam](https://www.amsterdam.nl/).
 - 🌱 I’m currently learning: React Native, Apollo/GraphQL, TypeScript.
-- 😄 Pronouns: he/him
-- 📫 Contact me or see more from me on my site: [rubensibon.nl](https://www.rubensibon.nl/)
+- 📫 Contact me or see more from me [on my site](https://www.rubensibon.nl/).
 
 ## GitHub Stats
 
