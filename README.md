@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on a [React Native](https://reactnative.dev/) & [Next.js](https://nextjs.org/) project for the [muncipality of Amsterdam](https://www.amsterdam.nl/).
-- 🌱 I’m currently expanding my skills in: React Native, Apollo/GraphQL, TypeScript and Python.
+- 🌱 I’m currently expanding my skills in: React, React Native, Apollo/GraphQL, TypeScript and Python.
 - ⚡ I'm also learning: Turkish.
-- ✨ Some of my hobbies are: running, yoga, trying to watch all films and series worth watching.
+- ✨ Some of my hobbies are: running, yoga, videogames, trying to watch all films and series worth watching.
 - 📫 Contact me or see more from me [on my site](https://www.rubensibon.nl/).
 
 ## GitHub Stats
