@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ruben, a web and software developer from Amsterdam, The Netherlands.
+## Hi there 👋 I'm Ruben, a developer from Amsterdam, The Netherlands.
 
 <!--
 **RubenSibon/RubenSibon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
