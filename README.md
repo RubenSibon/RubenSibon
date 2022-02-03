@@ -7,8 +7,6 @@
 - ✨ Some of my hobbies are: running, yoga, videogames, trying to read all books worth reading and watch all movies and series worth watching.
 - 📫 Contact me or see more from me [on my site](https://www.rubensibon.nl/).
 
-## Some GitHub Statistics
-
 [![Ruben's GitH0,0,0,0ub stats](https://github-readme-stats.vercel.app/api?username=RubenSibon&bg_color=22272e&title_color=adbac7&text_color=adbac7&count_private=true&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ruben's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenSibon&bg_color=22272e&title_color=adbac7&text_color=adbac7&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Ruben's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenSibon&bg_color=22272e&title_color=adbac7&text_color=adbac7&layout=compact&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
