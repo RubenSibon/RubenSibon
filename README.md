@@ -9,6 +9,6 @@
 
 ## Some GitHub Statistics
 
-[![Ruben's GitHub stats](https://github-readme-stats.vercel.app/api?username=RubenSibon&bg_color=transparent&title_color=currentColor&text_color=currentColor&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Ruben's GitH0,0,0,0ub stats](https://github-readme-stats.vercel.app/api?username=RubenSibon&bg_color=rgba(0,0,0,0)&title_color=currentColor&text_color=currentColor&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Ruben's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenSibon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
