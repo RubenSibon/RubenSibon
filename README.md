@@ -2,7 +2,7 @@
 
 ## Hi there 👋 I'm Ruben, a developer from the Netherlands
 
-- 🔭 I’m currently working on a [React Native](https://reactnative.dev/) & [Next.js](https://nextjs.org/) project for the [muncipality of Amsterdam](https://www.amsterdam.nl/).
+- 🔭 I’m currently working on a [Next.js](https://nextjs.org/) & [Node](https://nodejs.org/en/) + [Apollo/GraphQL](https://www.apollographql.com/) project for the [City of Amsterdam](https://www.amsterdam.nl/en/).
 - 🌱 I’m currently expanding my skills in: React, React Native, Apollo/GraphQL, TypeScript and Python.
 - 🖖 My favourite framework still is [Vue.js](https://vuejs.org/) and by extension [NuxtJS](https://nuxtjs.org/).
 - ⚡ I'm also learning: Turkish.
