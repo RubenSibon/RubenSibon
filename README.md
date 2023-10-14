@@ -2,8 +2,8 @@
 
 ## Hi there 👋 I'm Ruben, a developer from the Netherlands
 
-- 🔭 I’m currently working on a [Next.js](https://nextjs.org/) & [Node](https://nodejs.org/en/) + [Apollo/GraphQL](https://www.apollographql.com/) project for the [City of Amsterdam](https://www.amsterdam.nl/en/).
-- 🌱 I’m currently expanding my skills in: React, React Native, Apollo/GraphQL, TypeScript and Python.
+- 🔭 I’m often working on a [React](https://react.dev/)/[Next.js](https://nextjs.org/) projects for the [City of Amsterdam](https://www.amsterdam.nl/en/) with [Node](https://nodejs.org/en/), [MongoDB](https://www.mongodb.com/) and [Apollo/GraphQL](https://www.apollographql.com/) on the side.
+- 🌱 I’m currently expanding my skills in: React, React Native, TypeScript, MongoDB, Postgres, Apollo/GraphQL and Python.
 - 🖖 My favourite framework still is [Vue.js](https://vuejs.org/) and by extension [NuxtJS](https://nuxtjs.org/).
 - ⚡ I'm also learning: Turkish.
 - ✨ Some of my hobbies are: running, yoga, videogames, trying to read all books worth reading and watch all movies and series worth watching.
