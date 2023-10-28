@@ -2,10 +2,10 @@
 
 ## Hi there 👋 I'm Ruben, a developer from the Netherlands
 
-- 🔭 I’m usually working on [React](https://react.dev/)/[Next.js](https://nextjs.org/) projects for the [City of Amsterdam](https://www.amsterdam.nl/en/) with [Node.js](https://nodejs.org/en/), [MongoDB](https://www.mongodb.com/) and [Apollo/GraphQL](https://www.apollographql.com/) on the side.
-- 🌱 I’m currently expanding my skills in: React, TypeScript, Node.js, MongoDB, Postgres, Apollo/GraphQL and Python.
+- 🔭 I’m usually working on [React](https://react.dev/)/[Next.js](https://nextjs.org/) projects for the [City of Amsterdam](https://www.amsterdam.nl/en/) with [Node.js](https://nodejs.org/en/) on the side.
+- 🌱 I’m currently expanding my skills in: [React](https://react.dev/), [TypeScript](https://www.typescriptlang.org/), [Node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.com/), [Postgres](https://www.postgresql.org/), [Apollo/GraphQL](https://www.apollographql.com/) and [Python](https://www.python.org/).
 - 🖖 My favourite framework still is [Vue.js](https://vuejs.org/) and by extension [NuxtJS](https://nuxtjs.org/).
-- ⚡ I'm also learning: Turkish.
+- ⚡ I'm also learning: [Turkish](https://duome.eu/RubenSibon/).
 - ✨ Some of my hobbies are: running, yoga, videogames, trying to read all books worth reading and watch all movies and series worth watching.
 - 📫 Contact me or see more from me [on my site](https://www.rubensibon.nl/).
 
