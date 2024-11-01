@@ -2,8 +2,8 @@
 
 ## Hi there 👋 I'm Ruben, a developer from the Netherlands
 
-- 🔭 I’m usually working on [React](https://react.dev/) + [PHP/Symfony](https://symfony.com/) projects for the [City of Amsterdam](https://www.amsterdam.nl/en/).
-- 🌱 I’m currently expanding my skills in: [React](https://react.dev/), [Next.js](https://nextjs.org/), [PHP/Symfony](https://symfony.com/), [Node.js](https://nodejs.org/), [Python](https://www.python.org/), [MongoDB](https://www.mongodb.com/), [Postgres](https://www.postgresql.org/) and [Apollo/GraphQL](https://www.apollographql.com/).
+- 🔭 I’m usually working on [React](https://react.dev/) + [Symfony](https://symfony.com/) projects for the [City of Amsterdam](https://www.amsterdam.nl/en/).
+- 🌱 I’m currently expanding my skills in: [React](https://react.dev/), [Next.js](https://nextjs.org/), [Symfony](https://symfony.com/), [PHP](https://www.php.net/), [Node.js](https://nodejs.org/), [Python](https://www.python.org/), [MongoDB](https://www.mongodb.com/), [Postgres](https://www.postgresql.org/) and [Apollo/GraphQL](https://www.apollographql.com/).
 - 🖖 My favourite framework might still be [Vue.js](https://vuejs.org/) and by extension [NuxtJS](https://nuxtjs.org/); currently looking for more tools to be excited about (maybe [HTMX](https://htmx.org/)?).
 - ⚡ I'm also learning: Turkish, German, Spanish and other languages with [Duolingo](https://duome.eu/RubenSibon/).
 - ✨ Some of my hobbies are: running 🏃, swimming 🏊, yoga 🧘, gardening 🧑‍🌾 (got a plot of land with a cabin), videogames 🎮, trying to read all books 📚 worth reading and watch all movies and series 🎬 worth watching.
