@@ -8,6 +8,6 @@
 - ✨ Some of my hobbies are: running 🏃, swimming 🏊, yoga 🧘, gardening 🧑‍🌾 (got a plot of land with a cabin), Djembé (and other percussion), videogames 🎮, trying to read all books 📚 worth reading and watch all movies and series 🎬 worth watching.
 - 📫 Contact me or see more from me [on my site](https://www.rubensibon.nl/).
 
-[![Ruben's GitH0,0,0,0ub stats](https://github-readme-stats.vercel.app/api?username=RubenSibon&bg_color=22272e&title_color=adbac7&text_color=adbac7&count_private=true&hide=stars&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ruben's GitH0,0,0,0ub stats](https://github-stats-extended.vercel.app/api?username=RubenSibon&bg_color=22272e&title_color=adbac7&text_color=adbac7&count_private=true&hide=stars&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
-[![Ruben's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RubenSibon&bg_color=22272e&title_color=adbac7&text_color=adbac7&layout=compact&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Ruben's languages](https://github-stats-extended.vercel.app/api/top-langs/?username=RubenSibon&bg_color=22272e&title_color=adbac7&text_color=adbac7&layout=compact&hide_border=true&langs_count=10)](https://github.com/stats-organization/github-stats-extended)
